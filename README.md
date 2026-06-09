@@ -1,11 +1,7 @@
-<div align="center">
-  
 # Hello, I'm John Aj Castro 👋
-**BSIS Student | System Analyst | System Developer**
-📍 Panabo City, Davao del Norte, Philippines 
-*(Davao del Norte State College)*
 
-</div>
+**BSIS Student | System Analyst | System Developer** 
+📍 Panabo City, Davao del Norte, Philippines *(Davao del Norte State College)*
 
 Welcome to my GitHub! I am an analytical and detail-oriented Information Systems student and System Analyst. I specialize in process discovery, workflow optimization, and system development to deliver scalable, user-centric technological solutions that increase operational efficiency.
 
@@ -25,6 +21,11 @@ Welcome to my GitHub! I am an analytical and detail-oriented Information Systems
 **Role:** Systems Analysis & Database Architecture
 * An end-to-end inventory management system designed to track a complete workflow, from initial customer inquiries to final product setup.
 * Features a comprehensive dashboard for real-time analytics, stock alerts, and interactive inventory management.
+
+### 🏭 Plastic Manufacturing System
+**Role:** System Developer
+* A dedicated manufacturing system built to streamline process management, track resources, and improve overall operational efficiency on the production floor.
+* Designed to handle complex production workflows and ensure scalable, high-performance tracking.
 
 ---
 
@@ -49,6 +50,6 @@ Welcome to my GitHub! I am an analytical and detail-oriented Information Systems
 ## Let's Connect! 📬
 
 * 📧 **Email:** [castrojohnaj@gmail.com](mailto:castrojohnaj@gmail.com)
-* 🌐 **Portfolio:** [kryptogits.github.io/John-Aj-Castro_Portfolio](https://kryptogits.github.io/John-Aj-Castro_Portfolio/)
+* 🌐 **Portfolio:** [kryptogits.github.io/John-Aj-Castro_Portfolio](https://kryptogits.github.io/John-Aj-Castro_Portfolio)
 * 💼 **LinkedIn:** [John Aj Castro](https://www.linkedin.com/in/john-aj-castro-29739240b/)
 * 📘 **Facebook:** [ajcas69](https://www.facebook.com/ajcas69)
