@@ -1,7 +1,7 @@
-## Hey there! 👋
+## Hey! John Aj I. Castro here! 👋
 ---
 
-Welcome to my GitHub! I'm John Aj Castro, an IT student over at Davao del Norte State College (DNSC). 
+Welcome to my GitHub! I'm John Aj Castro, a 2nd year BSIS student at Davao del Norte State College (DNSC). 
 
 This space is basically a digital scratchpad for my coding journey. You'll find a mix of my academic projects, random Java exercises, and full-on system developments. Lately, I've been spending most of my time building workflow systems (like my ICoreTech inventory project) and exploring gamified concepts like virtual learning environments.
 
@@ -9,7 +9,7 @@ Whether it's writing backend logic in Java and PHP, mapping out a database, or s
 
 ### About Me
 
-* 🎓 **Academics:** BS Information Technology (BSIT) Student @ DNSC
+* 🎓 **Academics:** BS Information Systems (BSIS) Student @ DNSC
 * 📍 **Homebase:** Panabo City, Davao del Norte
 * 🎯 **Interests:** Backend Development, Systems Analysis, Gamification, and PC Building/Troubleshooting
 
