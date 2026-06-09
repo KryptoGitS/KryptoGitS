@@ -1,4 +1,4 @@
-# Hello, I'm John Aj Castro 👋
+# Hello, I'm John Aj Castro 👋🦉
 
 **BSIS Student | System Analyst | System Developer** 
 📍 Panabo City, Davao del Norte, Philippines *(Davao del Norte State College)*
